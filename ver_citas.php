@@ -1,4 +1,4 @@
-<?php
+git config --global user.name "FIRST_NAME LAST_NAME"<?php
 require_once 'conexion.php';
 session_start();
 
